@@ -1,0 +1,8 @@
+#tablaMascota{
+    border-radius: 10px;
+    border:solid black 2px;
+}
+
+#btnAgregarMascota{
+    background-color: aquamarine;
+}
